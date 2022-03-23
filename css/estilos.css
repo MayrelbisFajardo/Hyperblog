@@ -1,5 +1,5 @@
 body{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-color: antiquewhite;
     font-size: 16px;
@@ -8,9 +8,15 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1em;
+    /*padding: 1em;*/
     background-color: aliceblue;
     margin: 0 auto;
     border: 1px solid palevioletred;
     border-radius: 10px 10px 10px 10px;
+}
+.cabecera{
+    background-color: rgb(243, 195, 225);
+    font-size: 2em;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px ;
 }
